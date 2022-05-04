@@ -1,2 +1,2 @@
 # leilao
-Application to test Jenkins
+Application to study Jenkins
